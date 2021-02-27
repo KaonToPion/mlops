@@ -21,7 +21,7 @@ Una de las últimas *buzzwords* en el mundo de Data Science es **MLOps** o *Mach
 La construcción del concepto MLOps se ha ido formando según las empresas han ido dandose cuenta de que el Machine Learning no funcionaba. 
 
 <p align="center">
-  <img width="343" height="330" src="https://github.com/KaonToPion/mlops/blob/main/kim.gif">
+  <img width="343" height="330" src="https://github.com/KaonToPion/mlops/blob/main/kim.gif" alt='Oh mama',title='Oh mama'>
 </p>
 
 *"Uf, lo que ha dicho"*
