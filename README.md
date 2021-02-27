@@ -20,8 +20,9 @@ Una de las últimas *buzzwords* en el mundo de Data Science es **MLOps** o *Mach
 
 La construcción del concepto MLOps se ha ido formando según las empresas han ido dandose cuenta de que el Machine Learning no funcionaba. 
 
-
-![alt text](https://github.com/KaonToPion/mlops/blob/main/kim.gif? "Oh mama")
+<p align="center">
+  <img width="343" height="330" src="https://github.com/KaonToPion/mlops/blob/main/kim.gif">
+</p>
 
 *"Uf, lo que ha dicho"*
 
@@ -62,9 +63,9 @@ Llevar un buen registro de como se ha generado el modelo.
  
 
 
-https://ml-ops.org/
-http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
-https://fall2019.fullstackdeeplearning.com/
-https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning?hl=es-419
-https://martinfowler.com/articles/cd4ml.html
-https://github.com/EthicalML/awesome-production-machine-learning/
+- https://ml-ops.org/
+- http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
+- https://fall2019.fullstackdeeplearning.com/
+- https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning?hl=es-419
+- https://martinfowler.com/articles/cd4ml.html
+- https://github.com/EthicalML/awesome-production-machine-learning/
