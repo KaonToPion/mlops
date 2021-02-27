@@ -62,4 +62,9 @@ Llevar un buen registro de como se ha generado el modelo.
  
 
 
-
+https://ml-ops.org/
+http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
+https://fall2019.fullstackdeeplearning.com/
+https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning?hl=es-419
+https://martinfowler.com/articles/cd4ml.html
+https://github.com/EthicalML/awesome-production-machine-learning/
