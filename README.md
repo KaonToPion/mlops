@@ -1,12 +1,15 @@
 # MLOps
----
+***
 ### TL;DR
 
-Como meter Machine Learning en las empresas es más complicado de lo que parece, se han inventado un montón de técnicas chulas para conseguirlo. Sin ellas se sufre mucho. Básicamente consisten en:
-- Guardar todo bien ordenado
-- Apuntar lo que has hecho
-- No meterse en hipotecas y prestamos
-- No hacer burruños.
+Como meter Machine Learning en las empresas es más complicado de lo que parece, se han inventado un montón de técnicas chulas para conseguirlo. Sin ellas se sufre mucho. Básicamente, es muy parecido a cocinar bien:
+
+- Pesalo bien todo
+- Apunta bien la receta que vas siguiendo
+- Prueba como va quedando la cosa
+- Echale un ojo, que no se queme
+- Servir bien a los invitados
+- Repetirlo y que salga genial!
 
 ---
 
@@ -34,8 +37,29 @@ Aquí es donde viene el PeRo con el Machine Learning. Los modelos de aprendizaje
 - El código: Lo que podríamos llamar *El Algoritmo*. 
 - El dato: Lo que podríamos llamar *el bollicao* del Algoritmo
 
-Cambios en cualquiera de estos dos componentes, darán un resultado diferente.Claro, esto le duele un poquito en el corazón al desarrollo de software tradicional. Tu puedes tener un código brutalmente bien hecho, testeado, unas clases de colegio privado, con la documentación justa, ni la Biblia ni una cuartilla pero...*crap in, crap out*. Pero lo peor no es eso, sino que en no pocas ocasiones, es simplemente *sth different in, who the fuck knows what's out*
+Cambios en cualquiera de estos dos componentes, darán un resultado diferente.Claro, esto le duele un poquito en el corazón al desarrollo de software tradicional. Tu puedes tener un código brutalmente bien hecho, testeado, unas clases de colegio privado, con la documentación justa, pero...*crap in, crap out*. Pero lo peor no es eso, sino que en no pocas ocasiones, es simplemente *sth different in, who the fuck knows what's out*. 
 
+
+
+**La Ingeniería** ha vuelto a ponerse las pilas y a partir de unos pocos principios muy simples, han empezado a surgir un montón de herramientas y técnicas:
+
+
+1. Asegurate de todas las cantidades (Reproducibilidad).
+Llevar un buen registro de como se ha generado el modelo.
+ - Datos: Guardate un hash,la query para obtenerlos o los propios datos utilizados.
+ - Código: Obvio
+ - Máquina utilizada
+
+2. Apunta la receta cada vez que hagas el plato (Versionado)
+ 
+3. Prueba el plato, a ver cómo queda (Testing)
+
+4. Echale un ojo, no sea que se te queme (Monitorizar)
+
+5. Sirveselo a los invitados como el mejor camarero (Despliegue)
+
+5. Ahora, repitelo con los ojos cerrados, y que esté igual de rico (Automatizar)
+ 
 
 
 
